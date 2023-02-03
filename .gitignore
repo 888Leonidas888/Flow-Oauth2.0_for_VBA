@@ -1,0 +1,4 @@
+lib_others/*
+!lib_others/.gitignore
+credentials/*
+!credentials/.gitignore

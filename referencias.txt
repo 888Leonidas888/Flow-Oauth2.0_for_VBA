@@ -1,0 +1,20 @@
+REFERENCIAS
+
+Cómo usar OAuth 2.0 para acceder a las API de Google:
+
+https://developers.google.com/identity/protocols/oauth2?hl=es-419
+
+
+Usar OAuth 2.0 para aplicaciones de servidor web:
+
+https://developers.google.com/identity/protocols/oauth2/web-server?hl=es-419
+
+
+OAuth 2.0 para apps de escritorio y dispositivos móviles:
+
+https://developers.google.com/identity/protocols/oauth2/native-app?hl=es-419
+
+
+OAuth 2.0 Playground
+
+https://developers.google.com/oauthplayground/?hl=es-419&utm_source=devtools
