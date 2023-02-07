@@ -14,7 +14,7 @@ Si deseas obtener más detalles,consulta [Usa OAuth 2.0 para aplicaciones de ser
 
 ## Referencias a habilitar
 Debes asegurarte tener habilitadas la siguientes referencias antes de comenzar:
-- **Microsoft Office 16.0 Object Library**
+- **Microsoft Excel 16.0 Object Library**
 - **Microsoft Scripting Runtime**
 - **Microsoft XML,v6.0**
 
@@ -23,7 +23,7 @@ Debes asegurarte tener habilitadas la siguientes referencias antes de comenzar:
 
 Descarga e instala el siguiente módulo del respositorio [https://github.com/VBA-tools/VBA-JSON](https://github.com/VBA-tools/VBA-JSON "https://github.com/VBA-tools/VBA-JSON")
 
-- ** JsonConverter.bas v2.3.1 **
+- **JsonConverter.bas v2.3.1**
 
 ## Crea un proyecto en Google Api Console
 
